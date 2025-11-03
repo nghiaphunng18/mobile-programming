@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">MyViewApplication</string>
+    <string name="example_text">0</string>
+    <string name="ce_btn_text">CE</string>
+    <string name="c_btn_text">C</string>
+    <string name="bs_btn_text">BS</string>
+    <string name="slash_btn_text">/</string>
+    <string name="_7_btn_text">7</string>
+    <string name="_8_btn_text">8</string>
+    <string name="_9_btn_text">9</string>
+    <string name="x_btn_text">x</string>
+    <string name="_4_btn_text">4</string>
+    <string name="_5_btn_text">5</string>
+    <string name="_6_btn_text">6</string>
+    <string name="dash_btn_text">-</string>
+    <string name="_1_btn_text">1</string>
+    <string name="_2_btn_text">2</string>
+    <string name="_3_btn_text">3</string>
+    <string name="plus_btn_text">+</string>
+    <string name="plus_minus_btn_text">+/-</string>
+    <string name="_0_btn_text">0</string>
+    <string name="dot_btn_text">.</string>
+    <string name="equal_btn_text">=</string>
+</resources>
